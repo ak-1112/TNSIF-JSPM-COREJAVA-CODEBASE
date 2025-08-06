@@ -6,7 +6,8 @@ public static void main(String[] args) {
 	{
 		if(k%2 !=0)
 			continue;
-		System.out.println(k);
+		System.out.println(k
+				);
 	}
 }
 }

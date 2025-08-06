@@ -8,8 +8,8 @@ public class IfDemo {
 //			System.out.println("value of x is 5");
 //		}
 //		
-		int age =66;
-		if(age<=)
+		//int age =66;
+		//if(age<=66)
 	}
 
 }
